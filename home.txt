@@ -1,0 +1,9 @@
+pagina principal
+------
+logo
+
+creando menu
+slider con 3 imagenes
+serivicios con 3 tarjetas
+servicios 
+pie de pagina
